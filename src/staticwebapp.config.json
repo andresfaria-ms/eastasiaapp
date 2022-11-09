@@ -1,5 +1,7 @@
-"forwardingGateway": {
+{
+  "forwardingGateway": {
   "allowedForwardedHosts": [
     "www.andresfaria.com"
   ]
+  }
 }
